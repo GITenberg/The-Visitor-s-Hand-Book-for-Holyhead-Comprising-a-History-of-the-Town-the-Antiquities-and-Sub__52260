@@ -1,0 +1,25 @@
+_repo: The-Visitor-s-Hand-Book-for-Holyhead-Comprising-a-History-of-the-Town-the-Antiquities-and-Sub__52260
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jackson, Thomas
+    birthdate: 1798
+    deathdate: 1873
+    gutenberg_agent_id: '46834'
+    url: http://www.gutenberg.org/2009/agents/46834
+description: ''
+gutenberg_issued: '2016-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52260'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Holyhead (Wales) -- Guidebooks'
+- GITenberg
+title: "The Visitor's Hand-Book for Holyhead\r\nComprising a History of the Town,\
+  \ the Antiquities and Sublime Scenery of the Mountain"
+url: http://www.gutenberg.org/ebooks/52260
